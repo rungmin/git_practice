@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="300dp"
         android:layout_height="300dp"
-        android:text="3"
+        android:text="4"
         android:textSize="200dp"/>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
